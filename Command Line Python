@@ -1,0 +1,13 @@
+>>> x = 10
+>>> y = 0.5
+>>> R = "T"
+>>> Z = "Thavi021"
+>>> print(type(x))
+<class 'int'>
+>>> print(type(y))
+<class 'float'>
+>>> print(type(R))
+<class 'str'>
+>>> print(type(Z))
+<class 'str'>
+>>>
